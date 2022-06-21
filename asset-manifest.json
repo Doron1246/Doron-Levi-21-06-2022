@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Doron1246/Doron-Levi-21-06-2022/static/css/main.11e063eb.css",
+    "main.js": "/Doron1246/Doron-Levi-21-06-2022/static/js/main.bb1a00dc.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Doron1246/Doron-Levi-21-06-2022/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Doron1246/Doron-Levi-21-06-2022/index.html",
+    "main.11e063eb.css.map": "/Doron1246/Doron-Levi-21-06-2022/static/css/main.11e063eb.css.map",
+    "main.bb1a00dc.js.map": "/Doron1246/Doron-Levi-21-06-2022/static/js/main.bb1a00dc.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Doron1246/Doron-Levi-21-06-2022/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11e063eb.css",
+    "static/js/main.bb1a00dc.js"
+  ]
+}
