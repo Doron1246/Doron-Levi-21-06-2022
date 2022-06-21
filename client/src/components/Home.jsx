@@ -4,7 +4,8 @@ import Autocomplete from "./Autocomplete";
 import CorrentWeather from "./CorrentWeather";
 import "./Home.css";
 
-const apiKey2 = "8j7t0np4nHcDaTHN6tXFt4eJc8AWJ2ZT";
+//const apiKey2 = "8j7t0np4nHcDaTHN6tXFt4eJc8AWJ2ZT";
+const apiKey2 = "GOjMM48Fbz1wPXACAphrJWmGaSGxg1NA";
 const weekDays = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
 export default function Home({
@@ -51,6 +52,9 @@ export default function Home({
             "Accept-Encoding": "gzip",
             "Accept-Language": "en-US",
             Host: "api.accuweather.com",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "cross-site",
             "User-Agent":
               "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML",
           },
