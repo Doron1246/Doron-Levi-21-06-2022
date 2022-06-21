@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Doron1246/Doron-Levi-21-06-2022/client/static/css/main.11e063eb.css",
-    "main.js": "/Doron1246/Doron-Levi-21-06-2022/client/static/js/main.be75ff4a.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/Doron1246/Doron-Levi-21-06-2022/client/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/Doron1246/Doron-Levi-21-06-2022/client/index.html",
-    "main.11e063eb.css.map": "/Doron1246/Doron-Levi-21-06-2022/client/static/css/main.11e063eb.css.map",
-    "main.be75ff4a.js.map": "/Doron1246/Doron-Levi-21-06-2022/client/static/js/main.be75ff4a.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/Doron1246/Doron-Levi-21-06-2022/client/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/Doron1246/Doron-Levi-21-06-2022/tree/main/client/static/css/main.11e063eb.css",
+    "main.js": "/Doron1246/Doron-Levi-21-06-2022/tree/main/client/static/js/main.b6ea1087.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Doron1246/Doron-Levi-21-06-2022/tree/main/client/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Doron1246/Doron-Levi-21-06-2022/tree/main/client/index.html",
+    "main.11e063eb.css.map": "/Doron1246/Doron-Levi-21-06-2022/tree/main/client/static/css/main.11e063eb.css.map",
+    "main.b6ea1087.js.map": "/Doron1246/Doron-Levi-21-06-2022/tree/main/client/static/js/main.b6ea1087.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Doron1246/Doron-Levi-21-06-2022/tree/main/client/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11e063eb.css",
-    "static/js/main.be75ff4a.js"
+    "static/js/main.b6ea1087.js"
   ]
 }

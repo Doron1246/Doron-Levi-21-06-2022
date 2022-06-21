@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Doron1246/Doron-Levi-21-06-2022/client",
+  "homepage": "https://github.com/Doron1246/Doron-Levi-21-06-2022/tree/main/client",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
