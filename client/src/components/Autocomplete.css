@@ -1,0 +1,19 @@
+.input-container {
+  width: 200px;
+}
+.autocomplete-input {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.autocomplete-suggestions-item {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

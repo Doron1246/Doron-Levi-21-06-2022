@@ -1,0 +1,21 @@
+.days-container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+@media (max-width: 500px) {
+  .days-container {
+    flex-direction: column;
+  }
+}
+
+.day-card {
+  background-color: #e0fbfc;
+  border: 1px solid black;
+  padding: 20px 20px;
+}
+
+button {
+  background-color: #e0fbfc;
+}
